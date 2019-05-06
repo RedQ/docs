@@ -1,17 +1,17 @@
 # Picbazar Documentation
 
-## [Introduction](introduction.md)
+## [Introduction](picbazar/introduction.md)
 
-## [Features](features.md)
+## [Features](picbazar/features.md)
 
-## [Folder Structure](folder-structure.md)
+## [Folder Structure](picbazar/folder-structure.md)
 
-## [Config](config.md)
+## [Config](picbazar/config.md)
 
-## [Api](api.md)
+## [Api](picbazar/api.md)
 
-## [Shop](shop.md)
+## [Shop](picbazar/shop.md)
 
-## [Authentication](authentication.md)
+## [Authentication](picbazar/authentication.md)
 
-## [Stripe](stripe.md)
+## [Stripe](picbazar/stripe.md)
