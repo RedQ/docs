@@ -1,1 +1,1 @@
-- # [Pickbazar Documentation](pickbazar/main.md)
+- # [Pickbazar Documentation](pickbazar)
