@@ -1,17 +1,17 @@
 # Pickbazar Documentation
 
-## [Introduction](pickbazar/introduction.md)
+## [Introduction](introduction.md)
 
-## [Features](pickbazar/features.md)
+## [Features](features.md)
 
-## [Folder Structure](pickbazar/folder-structure.md)
+## [Folder Structure](folder-structure.md)
 
-## [Config](pickbazar/config.md)
+## [Config](config.md)
 
-## [Api](pickbazar/api.md)
+## [Api](api.md)
 
-## [Shop](pickbazar/shop.md)
+## [Shop](shop.md)
 
-## [Authentication](pickbazar/authentication.md)
+## [Authentication](authentication.md)
 
-## [Stripe](pickbazar/stripe.md)
+## [Stripe](stripe.md)
