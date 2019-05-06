@@ -1,1 +1,1 @@
-- # [Pickbazar Documentation](pickbazar)
+- # [Pickbazar Documentation](pickbazar/README.md)
