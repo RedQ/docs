@@ -1,0 +1,67 @@
+{
+  "config": {
+    "title": "Rnb Doc",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "version": "1.0.0",
+    "repository": null,
+    "native": false,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "entries": [
+    {
+      "key": "src/pages/index.mdx",
+      "value": {
+        "name": "Getting Started",
+        "route": "/",
+        "id": "522b7407e210088f3588b943aec44115",
+        "filepath": "src/pages/index.mdx",
+        "fullpath": "D:\\Rezaul\\RedQ projects\\docs\\packages\\rnb-doc\\src\\pages\\index.mdx",
+        "link": "",
+        "slug": "src-pages-index",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "getting-started",
+            "depth": 1,
+            "value": "Getting Started"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/pages/install.mdx",
+      "value": {
+        "name": "Installation",
+        "route": "/how-to-install",
+        "id": "39e6cf6fbe298233bdc9f8df1322caee",
+        "filepath": "src/pages/install.mdx",
+        "fullpath": "D:\\Rezaul\\RedQ projects\\docs\\packages\\rnb-doc\\src\\pages\\install.mdx",
+        "link": "",
+        "slug": "src-pages-install",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "how-to-install",
+            "depth": 1,
+            "value": "How to install"
+          }
+        ]
+      }
+    }
+  ],
+  "props": [
+    {
+      "key": "src\\gatsby-theme-docz\\components\\Logo\\index.js",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Logo",
+          "methods": [],
+          "actualName": "Logo"
+        }
+      ]
+    }
+  ]
+}

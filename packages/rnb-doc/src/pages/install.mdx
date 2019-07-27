@@ -1,0 +1,31 @@
+---
+name: Installation 
+route: /how-to-install
+---
+
+# How to install
+
+Gatsby themes is one of the coolest features of all time in Gatsby. With the introduction of theming in Gatsby, it's easier than ever to get started building a Gatsby site. Shared functionality, data sourcing, and design can all be prepackaged as a Gatsby Theme that's an NPM install away.
+
+Our theme has all components and algorithms used to render your documentation website, with it we can explore a lot of Gatsby features and put all this things together in order to create a really usefull documentation for you. Because of ```gatsby-theme-docz``` you can enjoy of a lot easier system to customize and improve your docs too.
+
+[markdown basics](http://daringfireball.net/projects/markdown/basics)
+
+```js
+import Typography from 'typography'
+
+const typography = new Typography({
+  baseFontSize: '18px',
+  baseLineHeight: 1.666,
+  headerFontFamily: ['Avenir Next', 'Helvetica Neue', 'Arial', 'sans-serif'],
+  bodyFontFamily: ['Georgia', 'serif'],
+  // See below for the full list of options.
+})
+
+// Output CSS as string.
+typography.toString()
+
+// Or insert styles directly into the <head> (works well for client-only
+// JS web apps.
+typography.injectStyles()
+```

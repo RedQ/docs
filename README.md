@@ -1,1 +1,3 @@
-- # [Pickbazar Documentation](pickbazar/README.md)
+# To run RnB Documentation
+
+`yarn rnb-dev`

@@ -1,0 +1,19 @@
+{
+  "name": "rnb-doc",
+  "private": true,
+  "description": "",
+  "version": "1.0.0",
+  "author": "RedQ Team",
+  "dependencies": {
+    "docz": "^2.0.0-rc.1",
+    "gatsby": "^2.13.41",
+    "gatsby-theme-docz": "^2.0.0-rc.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "serve": "gatsby serve"
+  }
+}
